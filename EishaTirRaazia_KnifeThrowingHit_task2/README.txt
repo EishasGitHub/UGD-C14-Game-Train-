@@ -1,0 +1,5 @@
+Knife Throwing Hit (Task 2) – Reflection
+
+I chose to create the game Knife Throwing Hit for Task 2 because it challenged me more than the other two tasks. Task 1 felt easier since I had already completed similar work in instructor tasks 3.1 – 3.4, and Task 3 relied heavily on assets, making the coding part fairly simple for me. However, Task 2 was much more complex, especially when it came to mechanics like throwing a knife, making sure it sticks to the target properly, and preventing it from falling off or moving incorrectly.
+
+Despite my efforts, I wasn't able to add a Start Page, an End Page, or a Restart option due to time constraints. I also wanted to include bonus targets, but I ran out of time to implement them. Even though I couldn't finish everything I planned, I learned a lot from working on the game, especially about handling physics and collisions in Unity.
